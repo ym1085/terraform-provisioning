@@ -1,5 +1,7 @@
 # Terraform Provisioning
 
+> 💡 **참고:** 기존 서비스의 구조 및 설정 노출을 방지하기 위해 `terraform.tfvars` 파일은 저장소에 공유하지 않았습니다. 원활한 프로비저닝을 위해 실행 전 각 환경에 맞는 `terraform.tfvars` 파일을 구성해야 합니다.
+
 ## Overview
 
 ![terraform](./docs/images/terraform.png)
